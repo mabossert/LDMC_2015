@@ -1,0 +1,124 @@
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX yd: <http://yarcdata.com/>
+PREFIX alchemy: <http://rdf.alchemyapi.com/rdf/v1/s/aapi-schema#>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+PREFIX dbpprop: <http://dbpedia.org/property/>
+PREFIX dbpedia: <http://dbpedia.org/resource/>
+PREFIX schema: <http://schema.org/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX ldmc: <http://ldmc.org/ontology/>
+PREFIX ldmc-p: <http://ldmc.org/p/>
+
+INSERT DATA {
+dbpedia-owl:abstract a ldmc:drop .
+dbpedia-owl:Work\/runtime a ldmc:drop .
+dbpedia-owl:runtime a ldmc:drop .
+dbpedia-owl:wikiPageExternalLink a ldmc:drop .
+dbpedia-owl:wikiPageID a ldmc:drop .
+dbpedia-owl:wikiPageRevisionID a ldmc:drop .
+dbpedia-owl:wikiPageOutDegree a ldmc:drop .
+dbpedia-owl:wikiPageLength a ldmc:drop .
+dbpedia-owl:releaseDate a ldmc:drop .
+dbpprop:budget a ldmc:drop .
+dbpedia-owl:budget a ldmc:drop .
+dbpprop:caption a ldmc:drop .
+dbpprop:cover a ldmc:drop .
+dbpprop:gross a ldmc:drop .
+dbpedia-owl:gross a ldmc:drop .
+dbpprop:hasPhotoCollection a ldmc:drop .
+dbpprop:imageSize a ldmc:drop .
+dbpprop:name a ldmc:drop .
+dbpprop:runtime a ldmc:drop .
+dbpprop:length a ldmc:drop .
+dbpprop:type a ldmc:drop .
+dbpprop:wordnet_type a ldmc:drop .
+dbpprop:released a ldmc:drop .
+dbpprop:id a ldmc:drop .
+dbpprop:label a ldmc:drop .
+rdfs:comment a ldmc:drop .
+owl:sameAs a ldmc:drop .
+prov:wasDerivedFrom a ldmc:drop .
+foaf:isPrimaryTopicOf a ldmc:drop .
+foaf:name a ldmc:drop .
+foaf:homepage a ldmc:drop .
+ldmc-p:rating a ldmc:drop .
+ldmc:training_data a ldmc:drop .
+ldmc:testing_data a ldmc:drop .
+ldmc:selected_film a ldmc:drop .
+dbpedia-owl:Film a ldmc:drop .
+<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity> a ldmc:drop .
+dbpedia-owl:Wikidata:Q11424 a ldmc:drop .
+schema:CreativeWork a ldmc:drop .
+schema:Movie a ldmc:drop .
+dbpedia-owl:Work a ldmc:drop .
+yago:YagoPermanentlyLocatedEntity a ldmc:drop .
+};
+
+INSERT {
+?o a ldmc:drop .
+}
+WHERE {
+?film a ldmc:selected_data .
+?film a ?o .
+FILTER (regex(STR(?o),"\\d{9}$|\\d{4}Films$")) .
+};
+
+## Let's drop predicates that match "url"
+INSERT {
+?p a ldmc:drop .
+}
+WHERE {
+?film a ldmc:selected_film .
+?film ?p ?o .
+FILTER(regex(STR(?p),"url$")) .
+};
+
+## Let's drop predicates that number less than 20 across the desired dataset
+INSERT {
+?p a ldmc:drop .
+}
+WHERE {
+SELECT ?p (COUNT(?o) AS ?count)
+WHERE {
+?film a ldmc:selected_film .
+?film ?p ?o .
+}
+GROUP BY ?p
+HAVING (?count < 20)
+};
+
+## Find the "easy" ones by finding properties that have different URI's, but the same label.
+## Then "cross-polinate", so that we know that we have all properties duplicated. For the
+## Next step, we will remove one or the other predicate in order to de-duplicate
+INSERT {
+?film ?p1 ?o2 .
+?film ?p2 ?o1 .
+}
+WHERE {
+?film a ldmc:selected_film .
+?film ?p1 ?o1 .
+?film ?p2 ?o2 .
+?p1 rdfs:label ?label .
+?p2 rdfs:label ?label .
+FILTER(langmatches(lang(?label),"en") && !sameterm(?p1,?p2) && regex(STR(?p1),"property")) .
+};
+
+## Now, let's delete duplicate references (arbitrarily, the dbpprop ones)
+DELETE {
+?film ?p1 ?o .
+}
+WHERE {
+?film a ldmc:selected_film .
+?film ?p1 ?o .
+?film ?p2 ?o .
+?p1 rdfs:label ?label .
+?p2 rdfs:label ?label .
+FILTER(!sameterm(?p1,?p2) && regex(STR(?p1),"property")) .
+}
