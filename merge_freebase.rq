@@ -1,0 +1,30 @@
+INSERT {
+  ?freebase <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ldmc.org/ontology/freebase_film> .
+}
+WHERE
+  { ?film <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ldmc.org/ontology/selected_film> .
+    ?film <http://www.w3.org/2002/07/owl#sameAs> ?freebase
+    FILTER regex(str(?freebase), "rdf\\.freebase\\.com")
+  } ;
+INSERT {
+  ?p <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ldmc.org/ontology/keep_freebase> .
+}
+WHERE
+  { ?freebase <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ldmc.org/ontology/freebase_film> .
+    ?freebase ?p ?o
+    FILTER regex(str(?p), "\\/film|award|media_common\\.netflix_genre\\.titles")
+  } ;
+INSERT DATA {
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ldmc.org/ontology/keep_freebase> .
+};
+INSERT {
+  ?film ?p ?o .
+}
+WHERE
+  { ?film <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ldmc.org/ontology/selected_film> .
+    ?film <http://ldmc.org/p/id> ?id .
+    ?film <http://www.w3.org/2002/07/owl#sameAs> ?freebase .
+    ?freebase <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ldmc.org/ontology/freebase_film> .
+    ?freebase ?p ?o
+    FILTER EXISTS {?p <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ldmc.org/ontology/keep_freebase>}
+  }
