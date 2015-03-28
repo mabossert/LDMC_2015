@@ -1,0 +1,401 @@
+Movie;Release date;DBpedia_URI;Label;id
+"4 Months; 3 Weeks and 2 Days";1/23/08 0:00;"http://dbpedia.org/resource/4_Months;_3_Weeks_and_2_Days";good;1601
+Ratatouille;6/29/07 0:00;http://dbpedia.org/resource/Ratatouille_(film);good;1602
+Killer of Sheep;3/30/07 0:00;http://dbpedia.org/resource/Killer_of_Sheep;good;1603
+Sideways;10/22/04 0:00;http://dbpedia.org/resource/Sideways;good;1604
+Sita Sings the Blues;12/25/09 0:00;http://dbpedia.org/resource/Sita_Sings_the_Blues;good;1605
+The Hurt Locker;6/26/09 0:00;http://dbpedia.org/resource/The_Hurt_Locker;good;1606
+Close Encounters of the Third Kind;11/16/77 0:00;http://dbpedia.org/resource/Close_Encounters_of_the_Third_Kind;good;1607
+Star Wars: Episode IV - A New Hope;5/25/77 0:00;http://dbpedia.org/resource/Star_Wars_(film);good;1608
+MoolaadÃ©;10/15/04 0:00;http://dbpedia.org/resource/Moolaad%C3%A9;good;1609
+A Prophet;2/26/10 0:00;http://dbpedia.org/resource/A_Prophet;good;1610
+Before Sunset;7/2/04 0:00;http://dbpedia.org/resource/Before_Sunset;good;1611
+Capturing the Friedmans;5/30/03 0:00;http://dbpedia.org/resource/Capturing_the_Friedmans;good;1612
+Finding Nemo;5/30/03 0:00;http://dbpedia.org/resource/Finding_Nemo;good;1613
+Hannah and Her Sisters;2/1/86 0:00;http://dbpedia.org/resource/Hannah_and_Her_Sisters;good;1614
+Raiders of the Lost Ark;6/12/81 0:00;http://dbpedia.org/resource/Raiders_of_the_Lost_Ark;good;1615
+Goodbye Solo;3/27/09 0:00;http://dbpedia.org/resource/Goodbye_Solo;good;1616
+Letters from Iwo Jima;12/20/06 0:00;http://dbpedia.org/resource/Letters_from_Iwo_Jima;good;1617
+Chicken Run;6/21/00 0:00;http://dbpedia.org/resource/Chicken_Run;good;1618
+Toy Story 2;11/24/99 0:00;http://dbpedia.org/resource/Toy_Story_2;good;1619
+All About My Mother;11/19/99 0:00;http://dbpedia.org/resource/All_About_My_Mother;good;1620
+Children of Hiroshima;4/22/11 0:00;http://dbpedia.org/resource/Children_of_Hiroshima;good;1621
+Slumdog Millionaire;11/12/08 0:00;http://dbpedia.org/resource/Slumdog_Millionaire;good;1622
+Talk to Her;11/22/02 0:00;http://dbpedia.org/resource/Talk_to_Her;good;1623
+The Player;4/3/92 0:00;http://dbpedia.org/resource/The_Player;good;1624
+This Is England;7/27/07 0:00;http://dbpedia.org/resource/This_Is_England;good;1625
+Ordinary People;9/18/80 0:00;http://dbpedia.org/resource/Ordinary_People;good;1626
+Paradise Lost 3: Purgatory;1/12/12 0:00;http://dbpedia.org/resource/Paradise_Lost_3:_Purgatory;good;1627
+Iraq in Fragments;11/10/06 0:00;http://dbpedia.org/resource/Iraq_in_Fragments;good;1628
+That Obscure Object of Desire;7/13/01 0:00;http://dbpedia.org/resource/That_Obscure_Object_of_Desire;good;1629
+The Descendants;11/16/11 0:00;http://dbpedia.org/resource/The_Descendants;good;1630
+The Magdalene Sisters;8/1/03 0:00;http://dbpedia.org/resource/The_Magdalene_Sisters;good;1631
+Incendies;4/22/11 0:00;http://dbpedia.org/resource/Incendies;good;1632
+My Summer of Love;6/17/05 0:00;http://dbpedia.org/resource/My_Summer_of_Love;good;1633
+Rachel Getting Married;10/3/08 0:00;http://dbpedia.org/resource/Rachel_Getting_Married;good;1634
+Tell No One;7/2/08 0:00;http://dbpedia.org/resource/Tell_No_One;good;1635
+The Agronomist;4/23/04 0:00;http://dbpedia.org/resource/The_Agronomist;good;1636
+The Filth and the Fury;4/7/00 0:00;http://dbpedia.org/resource/The_Filth_and_the_Fury;good;1637
+Unforgiven;8/7/92 0:00;http://dbpedia.org/resource/Unforgiven;good;1638
+A History of Violence;9/23/05 0:00;http://dbpedia.org/resource/A_History_of_Violence;good;1639
+Bad Education;11/19/04 0:00;http://dbpedia.org/resource/Bad_Education;good;1640
+Blood Simple.;7/7/00 0:00;http://dbpedia.org/resource/Blood_Simple;good;1641
+Room 237;3/29/13 0:00;http://dbpedia.org/resource/Room_237;good;1642
+The Simpsons Movie;7/27/07 0:00;http://dbpedia.org/resource/The_Simpsons_Movie;good;1643
+Wild Reeds;5/10/95 0:00;http://dbpedia.org/resource/Wild_Reeds;good;1644
+So Much So Fast;10/11/06 0:00;http://dbpedia.org/resource/So_Much_So_Fast;good;1645
+Terms of Endearment;11/23/83 0:00;http://dbpedia.org/resource/Terms_of_Endearment;good;1646
+The Fighter;12/10/10 0:00;http://dbpedia.org/resource/The_Fighter;good;1647
+The Five Obstructions;5/26/04 0:00;http://dbpedia.org/resource/The_Five_Obstructions;good;1648
+Wings of Desire;5/6/88 0:00;http://dbpedia.org/resource/Wings_of_Desire;good;1649
+Diamond Men;9/28/01 0:00;http://dbpedia.org/resource/Diamond_Men;bad;1650
+Full Metal Jacket;6/26/87 0:00;http://dbpedia.org/resource/Full_Metal_Jacket;good;1651
+Human Resources;9/15/00 0:00;http://dbpedia.org/resource/Human_Resources_(film);good;1652
+Into Great Silence;2/28/07 0:00;http://dbpedia.org/resource/Into_Great_Silence;good;1653
+Please Give;4/30/10 0:00;http://dbpedia.org/resource/Please_Give;good;1654
+Putty Hill;2/18/11 0:00;http://dbpedia.org/resource/Putty_Hill;good;1655
+The Real Dirt on Farmer John;1/20/06 0:00;http://dbpedia.org/resource/The_Real_Dirt_on_Farmer_John;good;1656
+Thief;3/27/81 0:00;http://dbpedia.org/resource/Thief_(film);bad;1657
+Caesar Must Die;2/6/13 0:00;http://dbpedia.org/resource/Caesar_Must_Die;good;1658
+China Heavyweight;7/6/12 0:00;http://dbpedia.org/resource/China_Heavyweight;good;1659
+Daughter from Danang;11/1/02 0:00;http://dbpedia.org/resource/Daughter_from_Danang;good;1660
+Happy Feet;11/17/06 0:00;http://dbpedia.org/resource/Happy_Feet;good;1661
+Jiro Dreams of Sushi;3/9/12 0:00;http://dbpedia.org/resource/Jiro_Dreams_of_Sushi;good;1662
+Last Tango in Paris;1/27/73 0:00;http://dbpedia.org/resource/Last_Tango_in_Paris;good;1663
+Shanghai Noon;5/26/00 0:00;http://dbpedia.org/resource/Shanghai_Noon;bad;1664
+The Decline of Western Civilization Part III;7/7/00 0:00;http://dbpedia.org/resource/The_Decline_of_Western_Civilization_III;good;1665
+The Graduate;12/21/67 0:00;http://dbpedia.org/resource/The_Graduate;good;1666
+The House I Live In;10/5/12 0:00;http://dbpedia.org/resource/The_House_I_Live_In;good;1667
+Bobby Fischer Against the World;9/9/11 0:00;http://dbpedia.org/resource/Bobby_Fischer_Against_the_World;good;1668
+Hoosiers;11/14/86 0:00;http://dbpedia.org/resource/Hoosiers;good;1669
+Night Across the Street;2/8/13 0:00;http://dbpedia.org/resource/Night_Across_the_Street;good;1670
+Songs from the Second Floor;7/3/02 0:00;http://dbpedia.org/resource/Songs_from_the_Second_Floor;good;1671
+Syriana;11/23/05 0:00;http://dbpedia.org/resource/Syriana;good;1672
+About a Boy;5/17/02 0:00;http://dbpedia.org/resource/About_a_Boy;good;1673
+An Unreasonable Man;1/31/07 0:00;http://dbpedia.org/resource/An_Unreasonable_Man;good;1674
+Bulworth;5/19/98 0:00;http://dbpedia.org/resource/Bulworth;good;1675
+Down from the Mountain;6/15/01 0:00;http://dbpedia.org/resource/Down_from_the_Mountain;good;1676
+Girl on the Bridge;7/28/00 0:00;http://dbpedia.org/resource/Girl_on_the_Bridge;good;1677
+Kitchen Stories;2/20/04 0:00;http://dbpedia.org/resource/Kitchen_Stories;good;1678
+Dangerous Liaisons;12/16/88 0:00;http://dbpedia.org/resource/Dangerous_Liaisons;good;1679
+Lost in La Mancha;1/31/03 0:00;http://dbpedia.org/resource/Lost_in_La_Mancha;good;1680
+Millions;3/11/05 0:00;http://dbpedia.org/resource/Millions;good;1681
+Polisse;5/18/12 0:00;http://dbpedia.org/resource/Polisse;good;1682
+Take My Eyes;3/17/06 0:00;http://dbpedia.org/resource/Take_My_Eyes;good;1683
+The Pirogue;1/23/13 0:00;http://dbpedia.org/resource/The_Pirogue;good;1684
+Amreeka;9/4/09 0:00;http://dbpedia.org/resource/Amreeka;good;1685
+Kung Fu Panda;6/6/08 0:00;http://dbpedia.org/resource/Kung_Fu_Panda;good;1686
+Last Life in the Universe;8/6/04 0:00;http://dbpedia.org/resource/Last_Life_in_the_Universe;good;1687
+Laurence Anyways;6/28/13 0:00;http://dbpedia.org/resource/Laurence_Anyways;good;1688
+Meet the Parents;10/6/00 0:00;http://dbpedia.org/resource/Meet_the_Parents;good;1689
+The City of Lost Children;12/15/95 0:00;http://dbpedia.org/resource/The_City_of_Lost_Children;good;1690
+The Forgiveness of Blood;2/24/12 0:00;http://dbpedia.org/resource/The_Forgiveness_of_Blood;good;1691
+The Hangover;6/5/09 0:00;http://dbpedia.org/resource/The_Hangover;good;1692
+The Matrix;3/31/99 0:00;http://dbpedia.org/resource/The_Matrix;good;1693
+The Puffy Chair;6/2/06 0:00;http://dbpedia.org/resource/The_Puffy_Chair;good;1694
+The Raid: Redemption;3/23/12 0:00;http://dbpedia.org/resource/The_Raid:_Redemption;good;1695
+Magic Mike;6/29/12 0:00;http://dbpedia.org/resource/Magic_Mike;good;1696
+My Brother the Devil;3/22/13 0:00;http://dbpedia.org/resource/My_Brother_the_Devil;good;1697
+Nowhere in Africa;3/7/03 0:00;http://dbpedia.org/resource/Nowhere_in_Africa;good;1698
+The Birdcage;3/8/96 0:00;http://dbpedia.org/resource/The_Birdcage;good;1699
+The Buffalo Boy;3/11/05 0:00;http://dbpedia.org/resource/The_Buffalo_Boy;good;1700
+Welcome to Sarajevo;11/26/97 0:00;http://dbpedia.org/resource/Welcome_to_Sarajevo;good;1701
+Aliens of the Deep;1/28/05 0:00;http://dbpedia.org/resource/Aliens_of_the_Deep;good;1702
+All the Real Girls;2/14/03 0:00;http://dbpedia.org/resource/All_the_Real_Girls;good;1703
+F/X;2/7/86 0:00;http://dbpedia.org/resource/F/X;good;1704
+Games of Love and Chance;8/31/05 0:00;http://dbpedia.org/resource/Games_of_Love_and_Chance;good;1705
+Married to the Mob;8/19/88 0:00;http://dbpedia.org/resource/Married_to_the_Mob;good;1706
+Star Trek II: The Wrath of Khan;6/4/82 0:00;http://dbpedia.org/resource/Star_Trek_II:_The_Wrath_of_Khan;good;1707
+Tangled;11/24/10 0:00;http://dbpedia.org/resource/Tangled;good;1708
+The Boss of It All;5/23/07 0:00;http://dbpedia.org/resource/The_Boss_of_It_All;good;1709
+The Tracker;1/16/04 0:00;http://dbpedia.org/resource/The_Tracker;good;1710
+We Are What We Are;9/27/13 0:00;http://dbpedia.org/resource/We_Are_What_We_Are;bad;1711
+A Moment of Innocence;11/10/99 0:00;http://dbpedia.org/resource/A_Moment_of_Innocence;good;1712
+Adanggaman;7/11/01 0:00;http://dbpedia.org/resource/Adanggaman;good;1713
+East of Havana;2/2/07 0:00;http://dbpedia.org/resource/East_of_Havana;good;1714
+Fados;3/6/09 0:00;http://dbpedia.org/resource/Fados;good;1715
+Galaxy Quest;12/25/99 0:00;http://dbpedia.org/resource/Galaxy_Quest;good;1716
+Girlfight;9/29/00 0:00;http://dbpedia.org/resource/Girlfight;good;1717
+Pieces of April;10/17/03 0:00;http://dbpedia.org/resource/Pieces_of_April;good;1718
+The Forsaken Land;6/22/06 0:00;http://dbpedia.org/resource/The_Forsaken_Land;good;1719
+The Opposite of Sex;5/22/98 0:00;http://dbpedia.org/resource/The_Opposite_of_Sex;good;1720
+The Science of Sleep;9/22/06 0:00;http://dbpedia.org/resource/The_Science_of_Sleep;good;1721
+The Tao of Steve;8/4/00 0:00;http://dbpedia.org/resource/The_Tao_of_Steve;good;1722
+Waking Sleeping Beauty;3/26/10 0:00;http://dbpedia.org/resource/Waking_Sleeping_Beauty;good;1723
+Cinderella Man;6/3/05 0:00;http://dbpedia.org/resource/Cinderella_Man;bad;1724
+Evil Dead II;3/13/87 0:00;http://dbpedia.org/resource/Evil_Dead_II;good;1725
+Inglourious Basterds;8/21/09 0:00;http://dbpedia.org/resource/Inglourious_Basterds;good;1726
+Monsieur Ibrahim;12/5/03 0:00;http://dbpedia.org/resource/Monsieur_Ibrahim;good;1727
+The Beautiful City;3/15/06 0:00;http://dbpedia.org/resource/The_Beautiful_City;good;1728
+The Eyes of Tammy Faye;7/21/00 0:00;http://dbpedia.org/resource/The_Eyes_of_Tammy_Faye;good;1729
+Eyes Wide Shut;7/16/99 0:00;http://dbpedia.org/resource/Eyes_Wide_Shut;good;1730
+Heartbeat Detector;3/14/08 0:00;http://dbpedia.org/resource/Heartbeat_Detector;good;1731
+Jump Tomorrow;7/6/01 0:00;http://dbpedia.org/resource/Jump_Tomorrow;bad;1732
+Praying with Lior;2/1/08 0:00;http://dbpedia.org/resource/Praying_with_Lior;good;1733
+Purple Butterfly;11/26/04 0:00;http://dbpedia.org/resource/Purple_Butterfly;good;1734
+The Milk of Sorrow;8/27/10 0:00;http://dbpedia.org/resource/The_Milk_of_Sorrow;good;1735
+Why We Fight;1/20/06 0:00;http://dbpedia.org/resource/Why_We_Fight;good;1736
+Winter Sleepers;3/22/00 0:00;http://dbpedia.org/resource/Winter_Sleepers;good;1737
+Better Luck Tomorrow;4/11/03 0:00;http://dbpedia.org/resource/Better_Luck_Tomorrow;bad;1738
+Damsels in Distress;4/6/12 0:00;http://dbpedia.org/resource/Damsels_in_Distress;good;1739
+Fast Times at Ridgemont High;8/13/82 0:00;http://dbpedia.org/resource/Fast_Times_at_Ridgemont_High;good;1740
+It Came from Kuchar;4/9/10 0:00;http://dbpedia.org/resource/It_Came_from_Kuchar;good;1741
+Kung Fu Panda 2;5/26/11 0:00;http://dbpedia.org/resource/Kung_Fu_Panda_2;good;1742
+Mondovino;3/23/05 0:00;http://dbpedia.org/resource/Mondovino;good;1743
+Rudo y Cursi;5/8/09 0:00;http://dbpedia.org/resource/Rudo_y_Cursi;good;1744
+Schultze Gets the Blues;2/18/05 0:00;http://dbpedia.org/resource/Schultze_Gets_the_Blues;good;1745
+Star Trek IV: The Voyage Home;11/26/86 0:00;http://dbpedia.org/resource/Star_Trek_IV:_The_Voyage_Home;good;1746
+Game Over: Kasparov and the Machine;12/3/04 0:00;http://dbpedia.org/resource/Game_Over:_Kasparov_and_the_Machine;good;1747
+Margot at the Wedding;11/16/07 0:00;http://dbpedia.org/resource/Margot_at_the_Wedding;good;1748
+Occupation: Dreamland;9/23/05 0:00;http://dbpedia.org/resource/Occupation:_Dreamland;good;1749
+Premium Rush;8/24/12 0:00;http://dbpedia.org/resource/Premium_Rush;good;1750
+Robot Stories;2/13/04 0:00;http://dbpedia.org/resource/Robot_Stories;good;1751
+The Tailor of Panama;3/30/01 0:00;http://dbpedia.org/resource/The_Tailor_of_Panama;bad;1752
+Three... Extremes;10/28/05 0:00;http://dbpedia.org/resource/Three..._Extremes;good;1753
+Unmistaken Child;6/3/09 0:00;http://dbpedia.org/resource/Unmistaken_Child;good;1754
+Bottle Rocket;2/21/96 0:00;http://dbpedia.org/resource/Bottle_Rocket;good;1755
+Coffee and Cigarettes;5/14/04 0:00;http://dbpedia.org/resource/Coffee_and_Cigarettes;good;1756
+Gay Sex in the 70s;11/4/05 0:00;http://dbpedia.org/resource/Gay_Sex_in_the_70s;good;1757
+In the Valley of Elah;9/14/07 0:00;http://dbpedia.org/resource/In_the_Valley_of_Elah;good;1758
+Jimmy Neutron: Boy Genius;12/21/01 0:00;http://dbpedia.org/resource/Jimmy_Neutron:_Boy_Genius;bad;1759
+My Week with Marilyn;11/23/11 0:00;http://dbpedia.org/resource/My_Week_with_Marilyn;good;1760
+The Great Debaters;12/25/07 0:00;http://dbpedia.org/resource/The_Great_Debaters;good;1761
+The Love We Make;11/11/11 0:00;http://dbpedia.org/resource/The_Love_We_Make;good;1762
+A Thousand Years of Good Prayers;9/19/08 0:00;http://dbpedia.org/resource/A_Thousand_Years_of_Good_Prayers;good;1763
+Beverly Hills Cop;12/5/84 0:00;http://dbpedia.org/resource/Beverly_Hills_Cop;good;1764
+District 13: Ultimatum;2/5/10 0:00;http://dbpedia.org/resource/District_13:_Ultimatum;good;1765
+Idiocracy;9/1/06 0:00;http://dbpedia.org/resource/Idiocracy;bad;1766
+Inside Deep Throat;2/11/05 0:00;http://dbpedia.org/resource/Inside_Deep_Throat;good;1767
+JCVD;11/7/08 0:00;http://dbpedia.org/resource/JCVD;good;1768
+Joe the King;10/15/99 0:00;http://dbpedia.org/resource/Joe_the_King;good;1769
+Look Both Ways;4/14/06 0:00;http://dbpedia.org/resource/Look_Both_Ways;good;1770
+Mondays in the Sun;7/25/03 0:00;http://dbpedia.org/resource/Mondays_in_the_Sun;good;1771
+One Hour Photo;8/21/02 0:00;http://dbpedia.org/resource/One_Hour_Photo;bad;1772
+Shortbus;10/4/06 0:00;http://dbpedia.org/resource/Shortbus;good;1773
+Silkwood;12/14/83 0:00;http://dbpedia.org/resource/Silkwood;good;1774
+The Beautiful Country;7/8/05 0:00;http://dbpedia.org/resource/The_Beautiful_Country;good;1775
+Wolke Neun;8/28/09 0:00;http://dbpedia.org/resource/Wolke_Neun;good;1776
+A Cat in Paris;6/1/12 0:00;http://dbpedia.org/resource/A_Cat_in_Paris;good;1777
+A State of Mind;8/10/05 0:00;http://dbpedia.org/resource/A_State_of_Mind;good;1778
+Anchorman: The Legend of Ron Burgundy;7/9/04 0:00;http://dbpedia.org/resource/Anchorman:_The_Legend_of_Ron_Burgundy;good;1779
+Dear Frankie;3/4/05 0:00;http://dbpedia.org/resource/Dear_Frankie;good;1780
+Happy Times;7/26/02 0:00;http://dbpedia.org/resource/Happy_Times;good;1781
+Home Alone;11/16/90 0:00;http://dbpedia.org/resource/Home_Alone;good;1782
+Megamind;11/5/10 0:00;http://dbpedia.org/resource/Megamind;good;1783
+Rumble Fish;10/8/83 0:00;http://dbpedia.org/resource/Rumble_Fish;good;1784
+Scream 2;12/12/97 0:00;http://dbpedia.org/resource/Scream_2;good;1785
+Iron Man 3;5/3/13 0:00;http://dbpedia.org/resource/Iron_Man_3;good;1786
+Shopgirl;10/21/05 0:00;http://dbpedia.org/resource/Shopgirl;good;1787
+The Chronicles of Narnia: Prince Caspian;5/16/08 0:00;http://dbpedia.org/resource/The_Chronicles_of_Narnia:_Prince_Caspian;good;1788
+The Great Warming;11/3/06 0:00;http://dbpedia.org/resource/The_Great_Warming;good;1789
+The Human Resources Manager;3/4/11 0:00;http://dbpedia.org/resource/The_Human_Resources_Manager;good;1790
+The Yellow Handkerchief;2/26/10 0:00;http://dbpedia.org/resource/The_Yellow_Handkerchief;good;1791
+American Blackout;9/22/06 0:00;http://dbpedia.org/resource/American_Blackout;good;1792
+Analyze This;3/5/99 0:00;http://dbpedia.org/resource/Analyze_This;bad;1793
+Day Night Day Night;5/9/07 0:00;http://dbpedia.org/resource/Day_Night_Day_Night;good;1794
+Fear X;1/28/05 0:00;http://dbpedia.org/resource/Fear_X;good;1795
+Quitting;9/13/02 0:00;http://dbpedia.org/resource/Quitting;good;1796
+The Soloist;4/24/09 0:00;http://dbpedia.org/resource/The_Soloist;good;1797
+Wah-Wah;5/12/06 0:00;http://dbpedia.org/resource/Wah-Wah;good;1798
+Word Wars;6/11/04 0:00;http://dbpedia.org/resource/Word_Wars;good;1799
+Death in Love;7/17/09 0:00;http://dbpedia.org/resource/Death_in_Love;bad;1800
+Eating Out 2: Sloppy Seconds;11/24/06 0:00;http://dbpedia.org/resource/Eating_Out_2:_Sloppy_Seconds;bad;1801
+Green Lantern;6/17/11 0:00;http://dbpedia.org/resource/Green_Lantern_(film);bad;1802
+I Love Your Work;11/4/05 0:00;http://dbpedia.org/resource/I_Love_Your_Work;bad;1803
+Life as We Know It;10/8/10 0:00;http://dbpedia.org/resource/Life_as_We_Know_It_(film);bad;1804
+National Treasure;11/19/04 0:00;http://dbpedia.org/resource/National_Treasure_(film);bad;1805
+Never Back Down;3/14/08 0:00;http://dbpedia.org/resource/Never_Back_Down;bad;1806
+Nights in Rodanthe;9/26/08 0:00;http://dbpedia.org/resource/Nights_in_Rodanthe;bad;1807
+O Jerusalem;10/17/07 0:00;http://dbpedia.org/resource/O_Jerusalem_(film);good;1808
+Percy Jackson: Sea of Monsters;8/7/13 0:00;http://dbpedia.org/resource/Percy_Jackson:_Sea_of_Monsters_(film);bad;1809
+The Change-Up;8/5/11 0:00;http://dbpedia.org/resource/The_Change-Up;bad;1810
+The Sitter;12/9/11 0:00;http://dbpedia.org/resource/The_Sitter;bad;1811
+Till Human Voices Wake Us;2/21/03 0:00;http://dbpedia.org/resource/Till_Human_Voices_Wake_Us_(film);bad;1812
+Virtuosity;8/4/95 0:00;http://dbpedia.org/resource/Virtuosity;bad;1813
+What a Man;11/30/12 0:00;http://dbpedia.org/resource/What_a_Man_(film);bad;1814
+An American Haunting;5/5/06 0:00;http://dbpedia.org/resource/An_American_Haunting;bad;1815
+Bad Boys II;7/18/03 0:00;http://dbpedia.org/resource/Bad_Boys_II;bad;1816
+BASEketball;7/31/98 0:00;http://dbpedia.org/resource/BASEketball;bad;1817
+Facing the Giants;9/29/06 0:00;http://dbpedia.org/resource/Facing_the_Giants;bad;1818
+Laws of Attraction;4/30/04 0:00;http://dbpedia.org/resource/Laws_of_Attraction;bad;1819
+Scrooged;11/23/88 0:00;http://dbpedia.org/resource/Scrooged;bad;1820
+The Medallion;8/22/03 0:00;http://dbpedia.org/resource/The_Medallion;bad;1821
+The Mysteries of Pittsburgh;4/10/09 0:00;http://dbpedia.org/resource/The_Mysteries_of_Pittsburgh_(film);bad;1822
+The Other Side of Heaven;4/12/02 0:00;http://dbpedia.org/resource/The_Other_Side_of_Heaven;good;1823
+The Trouble with Bliss;3/23/12 0:00;http://dbpedia.org/resource/The_Trouble_with_Bliss;bad;1824
+Twilight Zone: The Movie;6/24/83 0:00;http://dbpedia.org/resource/Twilight_Zone:_The_Movie;bad;1825
+Amelia;10/23/09 0:00;http://dbpedia.org/resource/Amelia_(film);bad;1826
+Bad Company;6/7/02 0:00;http://dbpedia.org/resource/Bad_Company_(2002_film);bad;1827
+"Connected: An Autoblogography About Love; Death & Technology";10/14/11 0:00;"http://dbpedia.org/resource/Connected:_An_Autoblogography_About_Love;_Death_&_Technology";good;1828
+Fools Rush In;2/14/97 0:00;http://dbpedia.org/resource/Fools_Rush_In_(1997_film);bad;1829
+Forever Strong;9/26/08 0:00;http://dbpedia.org/resource/Forever_Strong;bad;1830
+Fun Size;10/26/12 0:00;http://dbpedia.org/resource/Fun_Size;bad;1831
+Going Under;6/15/06 0:00;http://dbpedia.org/resource/Going_Under_(2004_film);good;1832
+Haven;9/15/06 0:00;http://dbpedia.org/resource/Haven_(film);bad;1833
+Resident Evil: Afterlife;9/10/10 0:00;http://dbpedia.org/resource/Resident_Evil:_Afterlife;bad;1834
+Riding the Bullet;10/15/04 0:00;http://dbpedia.org/resource/Riding_the_Bullet_(film);bad;1835
+Showboy;4/9/04 0:00;http://dbpedia.org/resource/Showboy;bad;1836
+Shutter;3/21/08 0:00;http://dbpedia.org/resource/Shutter_(2008_film);bad;1837
+Abandon;10/18/02 0:00;http://dbpedia.org/resource/Abandon_(film);bad;1838
+Alpha and Omega;9/17/10 0:00;http://dbpedia.org/resource/Alpha_and_Omega_(film);bad;1839
+Arthur;4/8/11 0:00;http://dbpedia.org/resource/Arthur_(2011_film);bad;1840
+Beware the Gonzo;9/9/11 0:00;http://dbpedia.org/resource/Beware_the_Gonzo;bad;1841
+Feel the Noise;10/5/07 0:00;http://dbpedia.org/resource/Feel_the_Noise;bad;1842
+Final Destination;3/17/00 0:00;http://dbpedia.org/resource/Final_Destination;bad;1843
+Hard Rain;1/16/98 0:00;http://dbpedia.org/resource/Hard_Rain_(film);bad;1844
+Holding Trevor;7/4/08 0:00;http://dbpedia.org/resource/Holding_Trevor;bad;1845
+Human Error;9/16/05 0:00;http://dbpedia.org/resource/Human_Error_(film);bad;1846
+I Am Number Four;2/18/11 0:00;http://dbpedia.org/resource/I_Am_Number_Four_(film);bad;1847
+Kedma;2/7/03 0:00;http://dbpedia.org/resource/Kedma_(film);good;1848
+Lady in the Water;7/21/06 0:00;http://dbpedia.org/resource/Lady_in_the_Water;bad;1849
+Parental Guidance;12/25/12 0:00;http://dbpedia.org/resource/Parental_Guidance_(film);bad;1850
+Poolhall Junkies;2/28/03 0:00;http://dbpedia.org/resource/Poolhall_Junkies;bad;1851
+Rambo III;5/25/88 0:00;http://dbpedia.org/resource/Rambo_III;good;1852
+Remember the Daze;4/11/08 0:00;http://dbpedia.org/resource/Remember_the_Daze;bad;1853
+Shwaas;12/10/04 0:00;http://dbpedia.org/resource/Shwaas;good;1854
+The Art of Getting By;6/17/11 0:00;http://dbpedia.org/resource/The_Art_of_Getting_By;bad;1855
+The Wicker Man;9/1/06 0:00;http://dbpedia.org/resource/The_Wicker_Man_(2006_film);bad;1856
+This Thing of Ours;7/18/03 0:00;http://dbpedia.org/resource/This_Thing_of_Ours;good;1857
+Thunderbirds;7/30/04 0:00;http://dbpedia.org/resource/Thunderbirds_(film);good;1858
+A Life Less Ordinary;10/24/97 0:00;http://dbpedia.org/resource/A_Life_Less_Ordinary;good;1859
+A Rumor of Angels;2/1/02 0:00;http://dbpedia.org/resource/A_Rumor_of_Angels;bad;1860
+Arise;9/20/13 0:00;http://dbpedia.org/resource/Arise_(film);good;1861
+Broken Sky;9/29/06 0:00;http://dbpedia.org/resource/Broken_Sky_(film);good;1862
+Eichmann;10/29/10 0:00;http://dbpedia.org/resource/Eichmann_(film);bad;1863
+Hannibal Rising;2/9/07 0:00;http://dbpedia.org/resource/Hannibal_Rising_(film);bad;1864
+Happy Tears;2/19/10 0:00;http://dbpedia.org/resource/Happy_Tears;bad;1865
+Jumper;2/14/08 0:00;http://dbpedia.org/resource/Jumper_(film);bad;1866
+Primeval;1/12/07 0:00;http://dbpedia.org/resource/Primeval_(film);bad;1867
+ATM;4/6/12 0:00;http://dbpedia.org/resource/ATM_(film);bad;1868
+Chelsea Walls;4/19/02 0:00;http://dbpedia.org/resource/Chelsea_Walls;bad;1869
+Color of the Cross;11/10/06 0:00;http://dbpedia.org/resource/Color_of_the_Cross;bad;1870
+Festival of Lights;11/9/12 0:00;http://dbpedia.org/resource/Festival_of_Lights_(film);bad;1871
+Just One Time;10/20/00 0:00;http://dbpedia.org/resource/Just_One_Time_(film);bad;1872
+Knife Fight;1/25/13 0:00;http://dbpedia.org/resource/Knife_Fight;bad;1873
+Red Planet;11/10/00 0:00;http://dbpedia.org/resource/Red_Planet_(film);bad;1874
+Scooby Doo 2: Monsters Unleashed;3/26/04 0:00;http://dbpedia.org/resource/Scooby-Doo_2:_Monsters_Unleashed;bad;1875
+Slow Burn;4/13/07 0:00;http://dbpedia.org/resource/Slow_Burn;bad;1876
+Spawn;8/1/97 0:00;http://dbpedia.org/resource/Spawn_(film);bad;1877
+The Fourth Kind;11/6/09 0:00;http://dbpedia.org/resource/The_Fourth_Kind;bad;1878
+The Glass House;9/14/01 0:00;http://dbpedia.org/resource/The_Glass_House_(film);bad;1879
+The Happening;6/13/08 0:00;http://dbpedia.org/resource/The_Happening_(2008_film);bad;1880
+The Haunted Mansion;11/26/03 0:00;http://dbpedia.org/resource/The_Haunted_Mansion_(film);bad;1881
+54;8/28/98 0:00;http://dbpedia.org/resource/54_(film);bad;1882
+Being Human;5/6/94 0:00;http://dbpedia.org/resource/Being_Human_(film);bad;1883
+Chasing Papi;4/16/03 0:00;http://dbpedia.org/resource/Chasing_Papi;bad;1884
+Confessions of a Teenage Drama Queen;2/20/04 0:00;http://dbpedia.org/resource/Confessions_of_a_Teenage_Drama_Queen;bad;1885
+Crazy as Hell;9/27/02 0:00;http://dbpedia.org/resource/Crazy_as_Hell;bad;1886
+Detroit Rock City;8/13/99 0:00;http://dbpedia.org/resource/Detroit_Rock_City_(film);bad;1887
+End of Days;11/24/99 0:00;http://dbpedia.org/resource/End_of_Days_(film);bad;1888
+Hanging Up;2/18/00 0:00;http://dbpedia.org/resource/Hanging_Up;bad;1889
+Sleepover;7/9/04 0:00;http://dbpedia.org/resource/Sleepover_(film);bad;1890
+Price of Glory;3/31/00 0:00;http://dbpedia.org/resource/Price_of_Glory;bad;1891
+Repo Men;3/19/10 0:00;http://dbpedia.org/resource/Repo_Men;bad;1892
+The Wedding Date;2/4/05 0:00;http://dbpedia.org/resource/The_Wedding_Date;bad;1893
+5 Days of War;8/19/11 0:00;http://dbpedia.org/resource/5_Days_of_War;bad;1894
+Bandido;12/10/04 0:00;http://dbpedia.org/resource/Bandido_(2004._film);bad;1895
+Crazy Eyes;7/6/12 0:00;http://dbpedia.org/resource/Crazy_Eyes_(film);bad;1896
+Deception;4/25/08 0:00;http://dbpedia.org/resource/Deception_(2008_film);bad;1897
+Fix;11/20/09 0:00;http://dbpedia.org/resource/Fix_(film);bad;1898
+Gossip;4/21/00 0:00;http://dbpedia.org/resource/Gossip_(2000_American_film);bad;1899
+Happy Gilmore;2/16/96 0:00;http://dbpedia.org/resource/Happy_Gilmore;bad;1900
+Harry + Max;2/4/05 0:00;http://dbpedia.org/resource/Harry_+_Max;good;1901
+Jolene;10/29/10 0:00;http://dbpedia.org/resource/Jolene_(2008_film);bad;1902
+Life or Something Like It;4/26/02 0:00;http://dbpedia.org/resource/Life_or_Something_Like_It;bad;1903
+Perfect Stranger;4/13/07 0:00;http://dbpedia.org/resource/Perfect_Stranger_(film);bad;1904
+Slutty Summer;6/10/05 0:00;http://dbpedia.org/resource/Slutty_Summer;bad;1905
+The Big White;12/16/05 0:00;http://dbpedia.org/resource/The_Big_White;bad;1906
+Very Bad Things;11/25/98 0:00;http://dbpedia.org/resource/Very_Bad_Things;bad;1907
+Gods and Generals;2/21/03 0:00;http://dbpedia.org/resource/Gods_and_Generals_(film);bad;1908
+Grind;8/15/03 0:00;http://dbpedia.org/resource/Grind_(2003_film);bad;1909
+Meet Bill;4/4/08 0:00;http://dbpedia.org/resource/Meet_Bill;bad;1910
+Oh My God;11/13/09 0:00;"http://dbpedia.org/resource/Oh;_My_God_(2008_film)";bad;1911
+Sarah Landon and the Paranormal Hour;10/19/07 0:00;http://dbpedia.org/resource/Sarah_Landon_and_the_Paranormal_Hour;bad;1912
+Silent Hill;4/21/06 0:00;http://dbpedia.org/resource/Silent_Hill_(film);bad;1913
+The Tuxedo;9/27/02 0:00;http://dbpedia.org/resource/The_Tuxedo;bad;1914
+Thirteen Ghosts;10/26/01 0:00;http://dbpedia.org/resource/Thirteen_Ghosts;bad;1915
+Waiting...;10/7/05 0:00;http://dbpedia.org/resource/Waiting..._(film);bad;1916
+How High;12/21/01 0:00;http://dbpedia.org/resource/How_High;bad;1917
+Johnson Family Vacation;4/7/04 0:00;http://dbpedia.org/resource/Johnson_Family_Vacation;bad;1918
+Premonition;3/16/07 0:00;http://dbpedia.org/resource/Premonition_(2007_film);bad;1919
+Eating Out;4/8/05 0:00;http://dbpedia.org/resource/Eating_Out;bad;1920
+Fireproof;9/26/08 0:00;http://dbpedia.org/resource/Fireproof_(film);bad;1921
+Mercy Streets;10/6/00 0:00;http://dbpedia.org/resource/Mercy_Streets;bad;1922
+Nobel Son;12/5/08 0:00;http://dbpedia.org/resource/Nobel_Son;bad;1923
+Pandorum;9/25/09 0:00;http://dbpedia.org/resource/Pandorum;bad;1924
+She Hate Me;7/28/04 0:00;http://dbpedia.org/resource/She_Hate_Me;good;1925
+The Haunting of Molly Hartley;10/31/08 0:00;http://dbpedia.org/resource/The_Haunting_of_Molly_Hartley;bad;1926
+The Other Sister;2/26/99 0:00;http://dbpedia.org/resource/The_Other_Sister;bad;1927
+Third World Cop;4/14/00 0:00;http://dbpedia.org/resource/Third_World_Cop;bad;1928
+You Again;9/24/10 0:00;http://dbpedia.org/resource/You_Again;bad;1929
+A Guy Thing;1/17/03 0:00;http://dbpedia.org/resource/A_Guy_Thing;bad;1930
+Beverly Hills Ninja;1/17/97 0:00;http://dbpedia.org/resource/Beverly_Hills_Ninja;bad;1931
+Crossroads;2/15/02 0:00;http://dbpedia.org/resource/Crossroads_(2002_film);bad;1932
+Imagining Argentina;6/11/04 0:00;http://dbpedia.org/resource/Imagining_Argentina_(film);good;1933
+Let's Go to Prison;11/17/06 0:00;http://dbpedia.org/resource/Let's_Go_to_Prison;bad;1934
+The Heart Is Deceitful Above All Things;3/10/06 0:00;http://dbpedia.org/resource/The_Heart_Is_Deceitful_Above_All_Things;bad;1935
+The Perfect Man;6/17/05 0:00;http://dbpedia.org/resource/The_Perfect_Man;bad;1936
+Vampire in Brooklyn;10/27/95 0:00;http://dbpedia.org/resource/Vampire_in_Brooklyn;bad;1937
+Zen Noir;9/22/06 0:00;http://dbpedia.org/resource/Zen_Noir;bad;1938
+A Night at the Roxbury;10/2/98 0:00;http://dbpedia.org/resource/A_Night_at_the_Roxbury;bad;1939
+Filth and Wisdom;10/17/08 0:00;http://dbpedia.org/resource/Filth_and_Wisdom;bad;1940
+Tideland;10/13/06 0:00;http://dbpedia.org/resource/Tideland_(film);good;1941
+Time Changer;10/25/02 0:00;http://dbpedia.org/resource/Time_Changer;bad;1942
+Waiting for Forever;2/4/11 0:00;http://dbpedia.org/resource/Waiting_for_Forever;bad;1943
+Zoom;8/11/06 0:00;http://dbpedia.org/resource/Zoom_(film);bad;1944
+American Outlaws;8/17/01 0:00;http://dbpedia.org/resource/American_Outlaws;bad;1945
+Double Take;1/12/01 0:00;http://dbpedia.org/resource/Double_Take_(2001_film);bad;1946
+Dragonfly;2/22/02 0:00;http://dbpedia.org/resource/Dragonfly_(2002_film);bad;1947
+Drowning Mona;3/3/00 0:00;http://dbpedia.org/resource/Drowning_Mona;bad;1948
+Jason X;4/26/02 0:00;http://dbpedia.org/resource/Jason_X;bad;1949
+License to Wed;7/3/07 0:00;http://dbpedia.org/resource/License_to_Wed;bad;1950
+My Soul to Take;10/8/10 0:00;http://dbpedia.org/resource/My_Soul_to_Take;bad;1951
+Patch Adams;12/25/98 0:00;http://dbpedia.org/resource/Patch_Adams_(film);good;1952
+The Comebacks;10/19/07 0:00;http://dbpedia.org/resource/The_Comebacks;bad;1953
+A Warrior's Heart;12/2/11 0:00;http://dbpedia.org/resource/A_Warrior's_Heart;bad;1954
+Autumn in New York;8/11/00 0:00;http://dbpedia.org/resource/Autumn_in_New_York_(film);bad;1955
+Captivity;7/13/07 0:00;http://dbpedia.org/resource/Captivity_(film);bad;1956
+Highlander;3/7/86 0:00;http://dbpedia.org/resource/Highlander_(film);bad;1957
+Kazaam;4/17/96 0:00;http://dbpedia.org/resource/Kazaam;bad;1958
+Redline;4/13/07 0:00;http://dbpedia.org/resource/Redline_(2007_film);bad;1959
+Saving Grace B. Jones;12/14/12 0:00;http://dbpedia.org/resource/Saving_Grace_B._Jones;bad;1960
+Sex and Death 101;4/4/08 0:00;http://dbpedia.org/resource/Sex_and_Death_101;bad;1961
+Sorority Row;9/11/09 0:00;http://dbpedia.org/resource/Sorority_Row;bad;1962
+The Boondock Saints II: All Saints Day;10/30/09 0:00;http://dbpedia.org/resource/The_Boondock_Saints_II:_All_Saints_Day;bad;1963
+Caffeine;3/16/07 0:00;http://dbpedia.org/resource/Caffeine_(film);bad;1964
+Eight Crazy Nights;11/27/02 0:00;http://dbpedia.org/resource/Eight_Crazy_Nights;bad;1965
+Beneath the Darkness;1/6/12 0:00;http://dbpedia.org/resource/Beneath_the_Darkness;bad;1966
+Jawbreaker;2/19/99 0:00;http://dbpedia.org/resource/Jawbreaker_(film);bad;1967
+Postal;5/23/08 0:00;http://dbpedia.org/resource/Postal_(film);bad;1968
+Standing Ovation;7/16/10 0:00;http://dbpedia.org/resource/Standing_Ovation_(film);bad;1969
+Superman IV: The Quest for Peace;7/24/87 0:00;http://dbpedia.org/resource/Superman_IV:_The_Quest_for_Peace;good;1970
+The Tiger and the Snow;12/29/06 0:00;http://dbpedia.org/resource/The_Tiger_and_the_Snow;bad;1971
+Bigger Than the Sky;2/18/05 0:00;http://dbpedia.org/resource/Bigger_Than_the_Sky;bad;1972
+Ice from the Sun;5/4/01 0:00;http://dbpedia.org/resource/Ice_from_the_Sun;bad;1973
+Killers;6/4/10 0:00;http://dbpedia.org/resource/Killers_(2010_film);bad;1974
+The Zodiac;3/17/06 0:00;http://dbpedia.org/resource/The_Zodiac_(film);good;1975
+Saw V;10/24/08 0:00;http://dbpedia.org/resource/Saw_V;bad;1976
+Son of the Mask;2/18/05 0:00;http://dbpedia.org/resource/Son_of_the_Mask;bad;1977
+The First $20 Million Is Always the Hardest;6/28/02 0:00;http://dbpedia.org/resource/The_First_$20_Million_Is_Always_the_Hardest;bad;1978
+The Last Airbender;7/1/10 0:00;http://dbpedia.org/resource/The_Last_Airbender;bad;1979
+Downloading Nancy;6/5/09 0:00;http://dbpedia.org/resource/Downloading_Nancy;bad;1980
+The Covenant;9/8/06 0:00;http://dbpedia.org/resource/The_Covenant_(film);bad;1981
+To Save a Life;1/22/10 0:00;http://dbpedia.org/resource/To_Save_a_Life;bad;1982
+Movie 43;1/25/13 0:00;http://dbpedia.org/resource/Movie_43;bad;1983
+The Devil Inside;1/6/12 0:00;http://dbpedia.org/resource/The_Devil_Inside_(film);bad;1984
+88 Minutes;4/18/08 0:00;http://dbpedia.org/resource/88_Minutes;bad;1985
+Epic Movie;1/26/07 0:00;http://dbpedia.org/resource/Epic_Movie;bad;1986
+Extreme Days;9/28/01 0:00;http://dbpedia.org/resource/Extreme_Days;bad;1987
+Witless Protection;2/22/08 0:00;http://dbpedia.org/resource/Witless_Protection;bad;1988
+FeardotCom;8/30/02 0:00;http://dbpedia.org/resource/FeardotCom;bad;1989
+Half Baked;1/16/98 0:00;http://dbpedia.org/resource/Half_Baked;bad;1990
+Simon Sez;9/24/99 0:00;http://dbpedia.org/resource/Simon_Sez;bad;1991
+Disaster Movie;8/29/08 0:00;http://dbpedia.org/resource/Disaster_Movie;bad;1992
+In the Name of the King: A Dungeon Siege Tale;1/11/08 0:00;http://dbpedia.org/resource/In_the_Name_of_the_King:_A_Dungeon_Siege_Tale;bad;1993
+Kung Pow: Enter the Fist;1/25/02 0:00;http://dbpedia.org/resource/Kung_Pow!_Enter_the_Fist;bad;1994
+The In Crowd;7/19/00 0:00;http://dbpedia.org/resource/The_In_Crowd_(film);bad;1995
+Freddy Got Fingered;4/20/01 0:00;http://dbpedia.org/resource/Freddy_Got_Fingered;bad;1996
+Strange Wilderness;2/1/08 0:00;http://dbpedia.org/resource/Strange_Wilderness;bad;1997
+Dirty Love;9/23/05 0:00;http://dbpedia.org/resource/Dirty_Love_(film);bad;1998
+The Tortured;6/15/12 0:00;http://dbpedia.org/resource/The_Tortured;bad;1999
+Baby Geniuses;3/12/99 0:00;http://dbpedia.org/resource/Baby_Geniuses;bad;2000
