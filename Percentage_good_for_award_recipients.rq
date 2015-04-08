@@ -1,0 +1,31 @@
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+PREFIX dbpprop: <http://dbpedia.org/property/>
+PREFIX ldmc-p: <http://ldmc.org/p/>
+PREFIX ldmc: <http://ldmc.org/ontology/>
+
+SELECT ?o ((COUNT(DISTINCT ?film1)/(COUNT(DISTINCT ?film1) + COUNT(DISTINCT ?film2))) * 100 AS ?percentGood)
+WHERE {
+  {
+    ?film1 a ldmc:training_data .
+    ?film1 ldmc-p:rating "good" .
+    ?film1 ?p ?o .
+    FILTER(regex(STR(?o),"award|_board_|film_critic|AFI\\'s|BAFTA|Criterion_Collection|American_Cinema_Editors|Sony_Pictures_Classics","i")) .
+    FILTER(isuri(?o)) .
+  }
+  UNION
+  {
+    ?film2 a ldmc:training_data .
+    ?film2 ldmc-p:rating "bad" .
+    ?film2 ?p ?o .
+    FILTER(regex(STR(?o),"award|_board_|film_critic|AFI\\'s|BAFTA|Criterion_Collection|American_Cinema_Editors|Sony_Pictures_Classics","i")) .
+    FILTER(isuri(?o)) .
+  }
+}
+GROUP BY ?o
+ORDER BY DESC(?percentGood)
